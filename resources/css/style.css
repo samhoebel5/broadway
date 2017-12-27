@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+.header,
+.middle{
+  background-image: url('../images/building.png');
+  color: white;
+}
+nav{
+  text-decoration: underline;
+  font-size: 18px;
+}
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 32px;
+}
