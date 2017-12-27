@@ -5,6 +5,7 @@ body {
 .header,
 .middle{
   background-image: url('../images/building.png');
+  background-size: cover;
   color: white;
 }
 nav{
@@ -16,4 +17,15 @@ h1{
 }
 h2{
   font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  color:white;
 }
